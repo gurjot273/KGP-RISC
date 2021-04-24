@@ -1,0 +1,7 @@
+NET rst LOC="p191";
+NET clk LOC="p76";
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET rOut[3] LOC="p138";
+NET rOut[2] LOC="p137";
+NET rOut[1] LOC="p140";
+NET rOut[0] LOC="p139";
